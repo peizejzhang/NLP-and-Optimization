@@ -51,8 +51,8 @@ This geometric representation allowed us to:
 
 This project was completed collaboratively by:
 
-- **Huy Dang** — Topic proposal, model implementation, dataset and preprocessing design, tokenization and text representation methods, n-gram analysis, and conclusion.
 - **Peize Zhang** — Accuracy–latency trade-off proposal, model architecture, evaluation metrics, n-gram and text representation comparisons, and overall model performance analysis.
+- **Huy Dang** — Topic proposal, model implementation, dataset and preprocessing design, tokenization and text representation methods, n-gram analysis, and conclusion.
 - **Henry Ren** — Data visualization and manuscript revision.
 - **Yunshu Zhang** — Introduction, literature review, and references.
 
